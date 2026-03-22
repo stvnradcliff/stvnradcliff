@@ -1,5 +1,6 @@
-## Hi there 👋
+## About Me
 
+I am a student at Iowa State University who is pursuing his bachelor's degree in Electrical Engineering. Throughout my high school career, I always had a fascination towards robotics and electronics as a whole. I always enjoyed breaking things apart to see how they specifically worked. When I took physics and an engineering course (PLTW) in high school, I was really able to solidify what I wanted to do in college. Although I do not have many projects under my belt yet, I am very open to any potential opportunities that may come my way. 
 <!--
 **stvnradcliff/stvnradcliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
